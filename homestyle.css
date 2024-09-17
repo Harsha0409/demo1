@@ -164,6 +164,9 @@ button:hover{
     .boss-img img{
         width: 100%;
     }
+     button{
+        font-size: 2vmax;
+    }
 }
 
 
